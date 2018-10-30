@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October, 29th 2018
 
 ### Student Name:  
-(First and Last Name)
+Kallayah Henderson 
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project the user will be able to enter a value that will then be calculated to another country using set exhchange rates. The use of an if/else statement controls the flow of input for each USD amount. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://kallayah26.github.io/lesson5_javascript2/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to correctly use an if/else statement.
+2. The purpose and functionality of an array element list.
+3. How to trouble shoot the if/else statement when you realize that the default is missing and canceling out all of the other statments.
 
