@@ -226,6 +226,6 @@ function clearButton () {
         document.getElementById("currencyExchangeInfo").innerHTML = "";
         
         //Remove the currency exchange information from the document where the id is: "currencyExchangeInfo"
-         document.getElementById("currencyExchangeInfo").value = "";
+         document.getElementById("usdAmount").value = "";
 
 }//end of clearButton function
